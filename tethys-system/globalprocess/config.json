@@ -1,0 +1,8 @@
+{
+    "datapath": "./data",
+    "lat": 31.253461,
+    "lon": 121.648004,
+    "gain": 42,
+    "Vadc": 2,
+    "sensitivity": -35
+}
