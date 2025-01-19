@@ -17,3 +17,15 @@ The main computation program
 
 ## uploadtodataset
 Upload it to the database.
+
+## Others
+
+Plotting code and analyzing code
+
+
+
+
+
+Tethys-System
+
+![TTSXT](G:\upload\HarmonicSoundScape\TTSXT.svg)
