@@ -28,4 +28,5 @@ Plotting code and analyzing code
 
 Tethys-System
 
-![TTSXT](G:\upload\HarmonicSoundScape\TTSXT.svg)
+![TTSXT](TTSXT.svg)
+
